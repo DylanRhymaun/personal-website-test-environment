@@ -1,13 +1,16 @@
-/* Reset some browser defaults */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Basic page layout */
 body {
-  font-family: sans-serif;
+  font-family: "Atkinson Hyperlegible Next", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
   background: #fff;
   color: #000;
   line-height: 1.2;
@@ -15,27 +18,20 @@ body {
   justify-content: center;
 }
 
-/* Central column */
-main {
-  width:15%;
-  text-align: justify;
-}
-
 .wrapper {
-  width:25%;
+  width:35%;
   text-align: justify;
 }
 
-/* Lists should be left-aligned */
 main ul,
 main ol {
   text-align: left;
-  margin-left: 1.5em; /* keeps bullets/numbers visible */
+  margin-left: 1.5em; 
 }
 
 /* Headings and nav should overflow slightly wider than the main column */
 h1, h2, h3, nav, img {
-  width:25%;
+  width:90%;
   margin: 0.2em auto; /* auto centers the block */
   text-align: center;
   display: block; /* ensures centering works reliably */

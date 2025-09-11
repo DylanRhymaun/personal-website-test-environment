@@ -14,7 +14,7 @@ layout: default
 // | ok           | good swedish fish | nice  |
 // | out of stock | good and plenty   | nice  |
 // For horizontal line: "* * *"
-// Small Image: ![Desk](URL or path)
+// Small Image: ![Desc](URL or path)
 // Large Image![Desc](URL or path)
 // Definition Lists can be used with html syntax: <dl>, <dt>name</dt><dd>Godzilla</dd></dl>
 -->
