@@ -5,6 +5,8 @@ layout: default
 // Text can be **bold**, _italic_, or ~~strikethrough~~.
 // #Word is h1, ##Word is h2, ###Word is h3, et cetera
 // [Link to another page](./writing/testing/another-page.html).
+// [Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).
+
 // * is for UL
 // 1., 2., 3. for OL
 // For tables: 
