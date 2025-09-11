@@ -1,0 +1,53 @@
+<h2> My Favorite Albums. Updated rarely (v. 2/1/2025)</h2>
+<p>The "C" Column refers to when it was chronologically added to my favorites of all time list. </p><br>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Artist</th>
+            <th>Year</th>
+            <th>C</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>El Camino</td><td>The Black Keys</td><td>2011</td><td>1</td></tr>
+        <tr><td>An Awesome Wave</td><td>Alt J</td><td>2012</td><td>2</td></tr>
+        <tr><td>The Golden Age</td><td>Woodkid</td><td>2013</td><td>3</td></tr>
+        <tr><td>The Lumineers</td><td>The Lumineers</td><td>2012</td><td>4</td></tr>
+        <tr><td>This is All Yours</td><td>Alt J</td><td>2014</td><td>5</td></tr>
+        <tr><td>Zaba</td><td>Glass Animals</td><td>2014</td><td>6</td></tr>
+        <tr><td>Flume</td><td>Flume</td><td>2012</td><td>8</td></tr>
+        <tr><td>Dark Eyes</td><td>Half Moon Run</td><td>2013</td><td>9</td></tr>
+        <tr><td>Acid Rap</td><td>Chance</td><td>2013</td><td>10</td></tr>
+        <tr><td>Seeing Sounds</td><td>NERD</td><td>2008</td><td>11</td></tr>
+        <tr><td>The Life of Pablo</td><td>Kanye West</td><td>2016</td><td>12</td></tr>
+        <tr><td>Blonde</td><td>Frank Ocean</td><td>2016</td><td>13</td></tr>
+        <tr><td>Divine Feminine</td><td>Mac Miller</td><td>2016</td><td>14</td></tr>
+        <tr><td>WGIFHTYFYS</td><td>A Tribe Called Quest</td><td>2016</td><td>15</td></tr>
+        <tr><td>Pinetrees on the Pavement</td><td>Supersci</td><td>2006</td><td>16</td></tr>
+        <tr><td>Salad Days</td><td>Mac Demarco</td><td>2014</td><td>17</td></tr>
+        <tr><td>To Pimp a Butterfly</td><td>Kendrick Lamar</td><td>2015</td><td>18</td></tr>
+        <tr><td>Saturation 2</td><td>Brockhampton</td><td>2017</td><td>21</td></tr>
+        <tr><td>Saturation 3</td><td>Brockhampton</td><td>2017</td><td>23</td></tr>
+        <tr><td>Scenery</td><td>Ryo Fukui</td><td>1976</td><td>24</td></tr>
+        <tr><td>Taboo</td><td>Denzel Curry</td><td>2018</td><td>25</td></tr>
+        <tr><td>Black Panther</td><td>Kendrick Lamar</td><td>2018</td><td>26</td></tr>
+        <tr><td>Dark Side of the Moon</td><td>Pink Floyd</td><td>1973</td><td>27</td></tr>
+        <tr><td>Iridescence</td><td>Brockhampton</td><td>2018</td><td>28</td></tr>
+        <tr><td>Sun Leads Me On</td><td>Half Moon Run</td><td>2015</td><td>29</td></tr>
+        <tr><td>The Beatles Collection</td><td>The Beatles</td><td>1982</td><td>31</td></tr>
+        <tr><td>Swimming</td><td>Mac Miller</td><td>2018</td><td>32</td></tr>
+        <tr><td>Assume Form</td><td>James Blake</td><td>2019</td><td>33</td></tr>
+        <tr><td>Beware of the Dogs</td><td>Stella Donnelly</td><td>2019</td><td>34</td></tr>
+        <tr><td>Attune/Detune</td><td>Mondo Grosso</td><td>2017</td><td>37</td></tr>
+        <tr><td>Dedicated</td><td>Carly Rae Jepsen</td><td>2019</td><td>38</td></tr>
+        <tr><td>Roadrunner</td><td>Brockhampton</td><td>2021</td><td>39</td></tr>
+        <tr><td>I lay down my Life for You</td><td>JPEGMAFIA</td><td>2024</td><td>41</td></tr>
+        <tr><td>Baby I'm the Wolf</td><td>Ha Vay</td><td>2024</td><td>42</td></tr>
+        <tr><td>Escaper</td><td>Sarah Kinsley</td><td>2024</td><td>43</td></tr>
+        <tr><td>Sometimes I might be Introvert</td><td>Little Simz</td><td>2021</td><td>44</td></tr>
+        <tr><td>Mr. Morale and the Big Steppers</td><td>Kendrick Lamar</td><td>2022</td><td>45</td></tr>
+        <tr><td>I Got Heaven</td><td>Mannequin Pussy</td><td>2024</td><td>46</td></tr>
+        <tr><td>Time Ain't Accidental</td><td>Jess Williamson</td><td>2023</td><td>47</td></tr>
+    </tbody>
+</table>

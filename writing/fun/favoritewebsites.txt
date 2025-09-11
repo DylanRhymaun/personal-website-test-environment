@@ -1,0 +1,26 @@
+<h1>Some of my favorite Websites</h1>
+<br>
+<h2>OpenGuessr</h2>
+<a href="https://openguessr.com/">Link</a>
+<p>A free version of GeoGuessr</p>
+
+<br>
+<h2>IMG_0001</h2>
+<a href="https://walzr.com/IMG_0001">Link</a>
+<p></p>
+
+<br>
+<h2>Public Domain Image Archive</h2>
+<a href="https://pdimagearchive.org/">Link</a>
+<p></p>
+
+<br>
+<h2>Flipnote Domain Archive</h2>
+<a href="https://archive.sudomemo.net/user/56D403F01E3BCCE9@DSi?page=1">Link</a>
+<p></p>
+
+<br>
+<h2></h2>
+<a href="">Link</a>
+<p></p>
+

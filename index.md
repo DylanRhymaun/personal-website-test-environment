@@ -4,7 +4,7 @@ layout: default
 // MD RULES
 // Text can be **bold**, _italic_, or ~~strikethrough~~.
 // #Word is h1, ##Word is h2, ###Word is h3, et cetera
-// [Link to another page](./another-page.html).
+// [Link to another page](./writing/testing/another-page.html).
 // * is for UL
 // 1., 2., 3. for OL
 // For tables: 

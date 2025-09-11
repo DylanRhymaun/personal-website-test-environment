@@ -1,0 +1,61 @@
+<h2> My Favorite Albums. Updated rarely (v. 5/24/2025)</h2>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Song</th>
+            <th>Artist</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>1 Nights</td><td>Frank Ocean</td></tr>
+        <tr><td>Ghost Town</td><td>Kanye West</td></tr>
+        <tr><td>Junky</td><td>Brockhampton</td></tr>
+        <tr><td>New Woman</td><td>Lisa</td></tr>
+        <tr><td>1539 N Calvert</td><td>Jpegmafia</td></tr>
+        <tr><td>It Could Happen to You</td><td>Ryo Fukui</td></tr>
+        <tr><td>I'll Come Too</td><td>James Blake</td></tr>
+        <tr><td>Intro (TIAY)</td><td>Alt J</td></tr>
+        <tr><td>The Great Fairy Fountain</td><td>Koji Kondo</td></tr>
+        <tr><td>If I Can Dream</td><td>Elvis Presley</td></tr>
+    </tbody>
+</table>
+<p>unordered from here on out</p>
+<table>
+    <tbody>
+        <tr><td>We the People</td><td>A Tribe Called Quest</td></tr>
+        <tr><td>Gimme All Your Love</td><td>Alabama Shakes</td></tr>
+        <tr><td>Fitzpleasure</td><td>Alt J</td></tr>
+        <tr><td>3WW</td><td>Alt J</td></tr>
+        <tr><td>Basketball Shoes</td><td>Black Country New Road</td></tr>
+        <tr><td>Sweet</td><td>Brockhampton</td></tr>
+        <tr><td>J'ouvert</td><td>Brockhampton</td></tr>
+        <tr><td>Always Something</td><td>Brockhampton</td></tr>
+        <tr><td>Dream House</td><td>Deafheaven</td></tr>
+        <tr><td>Help Me Lose my Mind</td><td>Disclosure</td></tr>
+        <tr><td>Supersoaker</td><td>Eartheater</td></tr>
+        <tr><td>Pure Comedy</td><td>Father John Misty</td></tr>
+        <tr><td>Everlong</td><td>Foo Fighters</td></tr>
+        <tr><td>Gooey</td><td>Glass Animals</td></tr>
+        <tr><td>I'm Just Snacking</td><td>Gus Dapperton</td></tr>
+        <tr><td>Nakamarra (ft Q-Tip)</td><td>Hiatus Kaiyote</td></tr>
+        <tr><td>Lazaretto</td><td>Jack White</td></tr>
+        <tr><td>Road Head</td><td>Japanese Breakfast</td></tr>
+        <tr><td>Black Skinhead</td><td>Kanye West</td></tr>
+        <tr><td>The Recipe (BH Remix)</td><td>Kendrick Lamar</td></tr>
+        <tr><td>MAAD City</td><td>Kendrick Lamar</td></tr>
+        <tr><td>Institutionalized</td><td>Kendrick Lamar</td></tr>
+        <tr><td>Ain't Gotta Lie</td><td>Kendrick Lamar</td></tr>
+        <tr><td>Alone, Omen 3</td><td>King Krule</td></tr>
+        <tr><td>Viceroy</td><td>Mac Demarco</td></tr>
+        <tr><td>Ode to Viceroy</td><td>Mac DeMarco</td></tr>
+        <tr><td>Stay</td><td>Mac Miller</td></tr>
+        <tr><td>All Caps</td><td>Madvillain</td></tr>
+        <tr><td>Get Free</td><td>Major Lazer</td></tr>
+        <tr><td>Julia</td><td>Mt. Joy</td></tr>
+        <tr><td>Spaz</td><td>N.E.R.D.</td></tr>
+        <tr><td>Ballad of a Homeschool Girl</td><td>Olivia Rodrigo</td></tr>
+        <tr><td>Consideration</td><td>Rihanna</td></tr>
+        <tr><td>Gorgeous</td><td>Slowthai</td></tr>
+        <tr><td>I Don't Love You Anymore</td><td>Tyler the Creator</td></tr>
+    </tbody>
+</table>
