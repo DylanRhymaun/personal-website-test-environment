@@ -6,6 +6,8 @@ layout: default
 // #Word is h1, ##Word is h2, ###Word is h3, et cetera
 // [Link to another page](./writing/testing/another-page.html).
 // [Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).
+// [Link to test of essay with HTML](./writing/fun/albumsof2024.html).
+// [Link to test of essay with HTML and embedding](./writing/fun/songsof2024.html).
 
 // * is for UL
 // 1., 2., 3. for OL

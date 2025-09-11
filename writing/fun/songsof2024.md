@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+## My 20 Songs Albums of 2024
+
+<h1>My Favorite Songs from 2024 (kinda)</h2>
+<p>I'm not going to do a writeup for every one of these like I did for my favorite albums. Most of them cross over with the albums list anyways. I'll give them an asterisk if they're on my favorite albums list. That seems appropriate</p>
+
+<h2>Honorable Mention. Bubble Gum - NewJeans</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ft70sAYrFyY?si=tYCvIqzYA_dRIYyS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>Honorable Mention. *Woke Up - XG</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5sT20edl02I?si=QXqOFr62nFBpg6dn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>20. Stars Out - Chance the Rapper</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywSYgBVkocM?si=hMRQBnhGBusPzDW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>19. *Magnetic - Illit</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vk5-c_v4gMU?si=FuuNoureDUUztWLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>18. Noid - Tyler the Creator</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qer3lwd5hyA?si=Oh3ZwgK5L7duZgTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>17. Not my Fault - Renee Rapp</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_kPDIXBCWQ?si=zpPS2V2nyDUR-VbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>16. Disco Ball - Echo Huang</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwJhdGJIunY?si=1fBaVEJj4pbddQRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>15. Tailor Swif - ASAP Rocky</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5URefVYaJrA?si=qIRz0SrQh-U4X2Or" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>14. *Juna - Clairo</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TsxAVFQkXQ8?si=_8mneyPWLSpUUXII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>13. Nothing Matters - The Last Dinner Party</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pETz4IMmeDU?si=KiKdznUlMlfrDAXu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>12. Diet Pepsi - Addison Rae</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hki6RqI-eMA?si=DJJsOAcJUUo6GDEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>11. *Loud Bark - Mannequin Pussy</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffBI5Zj9VDw?si=CKgAVftyFL6UMWZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>10. *Ballad of Matt and Mica - Magdalena Bay</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PE6yDzNQ0Ac?si=3NFxfaSLpQk6C6jC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>9. *Holy Holy - Geordie Greep</h2><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A4EU_0vFzuU?si=joxYBA0JLMDs_8FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>8. *Black Flag Freestyle - Denzel Curry</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uTU2-Sa5I60?si=b7iOQt7d03GeSzVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>7. *Sublime - Sarah Kinsley</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHzJicf93ig?si=G2mmdmj4dOsodXde" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>6. *Lego Ring - Faye Webster</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPSDjx8Do3s?si=a5SDd3mDfD_WoutX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>5. *Fragile - Ha Vay</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MaP9D_1FAuk?si=Xb5gSvLfx6QITkck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>4. *Euphoria - Kendrick Lamar</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPqDIwWMtxg?si=h-RdM-hMf6gZ1LFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>3. *Sin Miedo- JPEGMAFIA</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpH83KzVKDc?si=jNqiXBMBZAKNCmnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>2. Alter Ego - Doechii</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tJkPh2vluFQ?si=jr2C58HyE1FBvOHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>1. New Woman - Lisa & Rosalia</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UxXY_hR_wzo?si=i7XzeXnKYH-K31Nt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[back](./././)
