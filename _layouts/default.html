@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Social Icons-->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
@@ -19,7 +20,37 @@
           <img src="./assets/img/LOGO_Black.png" alt="Logo" />
         {% endif %}
       </header>
-
+      <div class="social-icons">
+          <a href="mailto:rhymaundylan@gmail.com" target="_blank" data-tooltip="rhymaundylan@gmail.com">
+              <i class="fa-solid fa-envelope"></i>                
+          </a>
+          <!--
+          <a href="https://twitter.com/DylnRhyman" target="_blank" data-tooltip="The only thing I post regularly on unfortunatley">
+              <i class="fab fa-twitter"></i>
+          </a>
+          -->
+          <a href="https://www.instagram.com/dylanrhymaun/" target="_blank" data-tooltip="Follow me here I guess, idc">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://steamcommunity.com/id/Greenthumbvt/" target="_blank" data-tooltip=":3">
+            <i class="fab fa-steam"></i>
+          </a>
+          <a href="https://www.imdb.com/user/ur57227513/?ref_=nv_usr_prof_2" target="_blank" data-tooltip="1200+ media reviews">
+            <i class="fa-brands fa-imdb"></i>
+          </a> 
+          <a href="https://youtube.com/@drhymaun" target="_blank" data-tooltip="Maybe I'll post something on youtube one day">
+            <i class="fab fa-youtube"></i>
+          </a>
+          <a href="https://github.com/DylanRhymaun" target="_blank" data-tooltip="Progress">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="https://open.spotify.com/user/123883176" target="_blank" data-tooltip="Moozik (not mine)">
+            <i class="fa-brands fa-spotify"></i>                
+          </a>
+          <a href="https://www.linkedin.com/in/dylan-rhymaun-809071156/" target="_blank" data-tooltip="I am a serious person :|">
+            <i class="fa-brands fa-linkedin-in"></i>                
+          </a>
+      </div>
       <section>
       {{ content }}
       </section>
