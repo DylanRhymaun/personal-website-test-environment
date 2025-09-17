@@ -11,7 +11,9 @@
 body {
   font-family: "Atkinson Hyperlegible Next", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  /*
+  font-weight: ;
+  */
   font-style: normal;
   background: #fff;
   color: #000;
@@ -54,26 +56,9 @@ h1, h2, h3, nav, img {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* ORIGINAL THEME FONT - DISREGARD UNLESS WE HAVE ISSUES LOL ##############################################################
+/* ORIGINAL THEME STYLESHEET - DISREGARD UNLESS WE HAVE ISSUES LOL ##############################################################
 @import "fonts";
+@import "rouge-github";
 
 body {
   background-color: #fff;
