@@ -22,13 +22,14 @@ layout: default
 <br>
 <br>
 <!-- Dropdown -->
+{% raw %}
 <select id="menu">
   <option value="">Select a section</option>
   <option value="one">Art</option>
   <option value="two">Words</option>
   <option value="three">Games</option>
-
 </select>
+{% endraw %}
 
 <!-- Sections -->
 <div id="dropdown-sections">
