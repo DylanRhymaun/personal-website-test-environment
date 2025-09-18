@@ -57,6 +57,7 @@ h1, h2, h3, nav, img {
   display: none;
 }
 #menu {
+    display: block;      /* makes it respect margin:auto */
   appearance: none;            /* hide default arrow */
   -webkit-appearance: none;
   -moz-appearance: none;
