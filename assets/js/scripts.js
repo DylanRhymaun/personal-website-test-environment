@@ -24,7 +24,7 @@ document.getElementById("theme-toggle").addEventListener("click", function () {
 });
 
 
-/* ################### Decrypt effect####################### */
+/* ################### Decrypt effect####################### 
 document.addEventListener('DOMContentLoaded', () => {
     const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()⫍_⪗+⧕⊬∫√';
     const speed = 30;
@@ -84,6 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const textNodes = getAllTextNodes(document.body);
     textNodes.forEach(decryptText);
 });
+*/
 
 /* ################### Hover Tooltip (not currently in use) ####################### */ /*
 document.querySelectorAll('[data-tooltip]').forEach(el => {

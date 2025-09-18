@@ -46,7 +46,11 @@ layout: default
   <p>This is the second section.</p>
 </section>
 
-[Link to another page](./writing/testing/another-page.html).
-[Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).
-[Link to test of essay with HTML](./writing/fun/albumsof2024.html).
+<br>
+[Link to another page](./writing/testing/another-page.html).<br>
+
+[Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).<br>
+
+[Link to test of essay with HTML](./writing/fun/albumsof2024.html).<br>
+
 [Link to test of essay with HTML and embedding](./writing/fun/songsof2024.html).
