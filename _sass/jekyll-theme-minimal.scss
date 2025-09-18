@@ -73,6 +73,8 @@ h1, h2, h3, nav, img {
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
   /* smooth hover */
   transition: border-color 0.2s, box-shadow 0.2s;
+  margin: 1em auto;    /* auto centers horizontally */
+  width: 59
 }
 /* Hover + focus states */
 #menu:hover,
