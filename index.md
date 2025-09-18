@@ -20,7 +20,6 @@ layout: default
 -->
 
 Word
-<p>Word in par tags</p>
 
 [Link to another page](./writing/testing/another-page.html).
 [Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).
