@@ -1,6 +1,7 @@
  // ################################### Section revealer ####################################################################
-  const menu = document.getElementById('menu');
-  const sections = document.querySelectorAll('section');
+const menu = document.getElementById('menu');
+const sections = document.querySelectorAll('#dropdown-sections section');
+
 
   menu.addEventListener('change', () => {
     sections.forEach(sec => sec.classList.add('hidden')); // hide all

@@ -23,7 +23,7 @@ layout: default
 <br>
 <!-- Dropdown -->
 <select id="menu">
-  <option value="">-- Select a section --</option>
+  <option value="">Select a section</option>
   <option value="one">Art</option>
   <option value="two">Words</option>
   <option value="three">Games</option>
@@ -31,20 +31,22 @@ layout: default
 </select>
 
 <!-- Sections -->
-<section id="one" class="hidden">
-  <h2>Art</h2>
-  <p>This is the first section.</p>
-</section>
+<div id="dropdown-sections">
+    <section id="one" class="hidden">
+    <h2>Art</h2>
+    <p>This is the first section.</p>
+    </section>
 
-<section id="two" class="hidden">
-  <h2>Words</h2>
-  <p>This is the second section.</p>
-</section>
+    <section id="two" class="hidden">
+    <h2>Words</h2>
+    <p>This is the second section.</p>
+    </section>
 
-<section id="three" class="hidden">
-  <h2>Games</h2>
-  <p>This is the second section.</p>
-</section>
+    <section id="three" class="hidden">
+    <h2>Games</h2>
+    <p>This is the second section.</p>
+    </section>
+</div>
 
 <br>
 [Link to another page](./writing/testing/another-page.html).<br>
