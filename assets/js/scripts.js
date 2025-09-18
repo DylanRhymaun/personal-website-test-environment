@@ -1,6 +1,5 @@
  // ################################### Section revealer ####################################################################
-
- const menu = document.getElementById('menu');
+  const menu = document.getElementById('menu');
   const sections = document.querySelectorAll('section');
 
   menu.addEventListener('change', () => {
@@ -81,7 +80,6 @@ document.addEventListener('DOMContentLoaded', () => {
         
         setTimeout(decrypt, Math.random() * 1000); // Random delay for staggered start
     }
-    
     // Apply to all text nodes
     const textNodes = getAllTextNodes(document.body);
     textNodes.forEach(decryptText);

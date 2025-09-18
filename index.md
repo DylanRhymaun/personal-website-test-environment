@@ -19,7 +19,32 @@ layout: default
 // Definition Lists can be used with html syntax: <dl>, <dt>name</dt><dd>Godzilla</dd></dl>
 -->
 
-Word
+<br>
+<br>
+<!-- Dropdown -->
+<select id="menu">
+  <option value="">-- Select a section --</option>
+  <option value="one">Art</option>
+  <option value="two">Words</option>
+  <option value="three">Games</option>
+
+</select>
+
+<!-- Sections -->
+<section id="one" class="hidden">
+  <h2>Art</h2>
+  <p>This is the first section.</p>
+</section>
+
+<section id="two" class="hidden">
+  <h2>Words</h2>
+  <p>This is the second section.</p>
+</section>
+
+<section id="three" class="hidden">
+  <h2>Games</h2>
+  <p>This is the second section.</p>
+</section>
 
 [Link to another page](./writing/testing/another-page.html).
 [Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).
