@@ -119,12 +119,3 @@ This is my personal website. <br>It's under heavy construction and will continue
       <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    </section>
 </div>
-
-<br>
-[Link to another page](./writing/testing/another-page.html).<br>
-
-[Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).<br>
-
-[Link to test of essay with HTML](./writing/fun/albumsof2024.html).<br>
-
-[Link to test of essay with HTML and embedding](./writing/fun/songsof2024.html).
