@@ -104,6 +104,8 @@ This is my personal website. <br>It's under heavy construction and will continue
 
         [Velvet Buzzsaw Review & Analysis](./writing/professional/velvetbuzzsaw.html).
 
+        [Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html).<br>
+
         [Come and See Review & Analysis](./writing/professional/comeandseereview.html).
 
         [A BIPOC perspective of the 2022 CCRPC ECOS Report](./writing/professional/20230131.html).
