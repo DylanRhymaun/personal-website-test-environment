@@ -53,6 +53,29 @@ This is my personal website. <br>It's under heavy construction and will continue
         <img alt="A gameboy" src="assets/img/16.gif">
         <img alt="An isometric view of a crashed spaceship amidst ruins in the desert" src="assets/img/17.png">
         <img alt="A first person persective of a person finding creepy obelisks in the desert" src="assets/img/18.gif">
+        <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="images/7A.jpg">
+        <img alt="Clouds" src="images/10.jpg">
+        <img alt="Skateboarder" src="images/12.JPG">
+        <img alt="Tree" src="images/26.jpg">
+        <img alt="Silhouettes of skateboard tricks overlayed on each other" src="images/19.jpg">
+        <img alt="Portraits of the members of the band Alt-J" src="images/28.png">
+        <img alt="A drawing of a man doing karate" src="images/29.png">
+        <img alt="A drawing of a quirky viking. " src="images/30.png">
+        <img alt="A drawing of the main villain from the BBC4 Show Utopia" src="images/31.png">
+        <img alt="A drawing of a pale woman with two different colored eyes" src="images/32.png">
+        <img alt="A black and white drawing of a civil war soldier" src="images/33.png">
+        <img alt="A manipulated photo of my friend siting in front of an abandoned house, though their body is pixellated" src="images/34.jpg">
+        <img alt="A high contrast photo of a condo in Toronto" src="images/36.jpg">
+        <img alt="A portrait of a model in front of UVM's taxidermy collection" src="images/37.jpg">
+        <img alt="A space-like image of some rocks over a still lake" src="images/38.JPG">
+        <img alt="A deep red sunset taken with a drone camera" src="images/39.JPG">
+        <img alt="A photo of the CN tower with a tree branch in front of it" src="images/40.JPG">
+        <img alt="A cinematic black and white landscape of a Quebec city street" src="images/41.jpg">
+        <img alt="A cinematic black and white landscape of another Quebec city street" src="images/42.jpg">
+        <img alt="A cinematic black and white landscape of the Quebec City chateau" src="images/43.jpg">
+        <img alt="A cinematic black and white landscape of A cathedral interior in Quebec city" src="images/44.jpg">
+        <img alt="A cinematic black and white landscape from inside the Quebec city chateau courtyard " src="images/45.jpg">
+        <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="images/46.jpg">
         <img alt="Another BMW E30 with high contrast" src="assets/img/20.png">
         <img alt="A mock spaceship ad" src="assets/img/21.png">
         <img alt="A fancy door" src="assets/img/22.png">
@@ -61,12 +84,12 @@ This is my personal website. <br>It's under heavy construction and will continue
         <img alt="A cargo spaceship" src="assets/img/27.png">
         <img alt="An animation of a mock space combat game" src="assets/img/35.gif">
     </section>
-
     <section id="two" class="hidden">
     <h2>Words</h2>
-    <p>This is the second section.</p>
+      <h2>Blog</h2>
+      <h2>Canned Fish Reviews (migration in progress)</h2>
+      <h2>Articles & Essays</h2>
     </section>
-
     <section id="three" class="hidden">
     <h2>Games</h2>
     <p>This is the second section.</p>
