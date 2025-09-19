@@ -86,17 +86,33 @@ This is my personal website. <br>It's under heavy construction and will continue
     </section>
     <section id="two" class="hidden">
     <h2>Words</h2>
-      <h2>Blog</h2>
-      <h2>Canned Fish Reviews (migration in progress)</h2>
-      <h2>Articles & Essays</h2>
+      ###Blog
+        [My Favorite Albums Spreadsheet](./writing/fun/favoriteAlbumsOAT.html)
+        [My 15 Favorite Albums of 2024](./writing/fun/albumsof2024.html)
+        [My 20 favorite songs of 2024](./writing/fun/songsof2024.html)
+        [Other Music I listened to in 2024](./writing/fun/othermusicof2024.html)
+
+      ###Articles & Essays
+        [Time Loops and Escapism in Minit](./writing/professional/timeloopsminit.html)
+        [Morality in 10 Cloverfield Lane](./writing/professional/moralityin10cloverfield.html)
+        [Velvet Buzzsaw Review & Analysis](./writing/professional/velvetbuzzsaw.html)
+        [Come and See Review & Analysis](./writing/professional/comeandseereview.html)
+        [A BIPOC perspective of the 2022 CCRPC ECOS Report](./writing/professional/20230131.html)
+        [A Vermonter’s Political Power](./writing/professional/20230228.html)
+        [Contemporary BIPOC Representation in Media](./writing/professional/20230531.html)
+        [The Job Hunter’s AI](./writing/professional/20230731.html)
+        [The Realities of Health Inequity in Vermont](./writing/professional/20241031.html)
+
+      ###Canned Fish Reviews
+
     </section>
     <section id="three" class="hidden">
     <h2>Games</h2>                
-      <h2>Galactix</h2>
+      ###Galactix
       <img alt="Galactix screenshot (top down 4X tower defense)" src="assets/img/galactix.png">
       <br><a href="https://crispy-chicken.itch.io/galactix">Link to Itch.io Page</a>
       <p>I was really excited to get back into Game making for the 2024 GMTK jam, but my contributions were smaller than I hoped this year. I assembled a team of 7 this time, making it clear that I focused on 3D art, but the team took a turn and opted for a 2D game. I made the UI, title screen, player, enemy, and machine sprites, but the really impressive pixel art was done by a pixel artist I asked to join last minute. Lessons for next time I guess.</p>
-      <h2>Space Ops</h2>
+      ###Space Ops
       <img alt="Run Cycle" src="assets/img/spaceops-running.gif">
       <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    </section>
