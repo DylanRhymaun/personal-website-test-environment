@@ -85,41 +85,28 @@ This is my personal website. <br>It's under heavy construction and will continue
         <img alt="An animation of a mock space combat game" src="assets/img/35.gif">
     </section>
     <section id="two" class="hidden">
-    ##Words
-      ### Blog
-
-      [My Favorite Albums Spreadsheet](./writing/fun/favoriteAlbumsOAT.html)  
-
-      [My 15 Favorite Albums of 2024](./writing/fun/albumsof2024.html)  
-
-      [My 20 favorite songs of 2024](./writing/fun/songsof2024.html)  
-
-      [Other Music I listened to in 2024](./writing/fun/othermusicof2024.html)  
-
-      ### Articles & Essays
-
-      [Time Loops and Escapism in Minit](./writing/professional/timeloopsminit.html)  
-
-      [Morality in 10 Cloverfield Lane](./writing/professional/moralityin10cloverfield.html)  
-
-      [Velvet Buzzsaw Review & Analysis](./writing/professional/velvetbuzzsaw.html)  
-
-      [Link to test of Velvet Buzzsaw Essay](./writing/professional/velvetbuzzsaw.html)  
-
-      [Come and See Review & Analysis](./writing/professional/comeandseereview.html)  
-
-      [A BIPOC perspective of the 2022 CCRPC ECOS Report](./writing/professional/20230131.html)  
-
-      [A Vermonter’s Political Power](./writing/professional/20230228.html)  
-
-      [Contemporary BIPOC Representation in Media](./writing/professional/20230531.html)  
-
-      [The Job Hunter’s AI](./writing/professional/20230731.html)  
-
-      [The Realities of Health Inequity in Vermont](./writing/professional/20241031.html)  
-
-      ###Canned Fish Reviews
-
+      <h2>Words</h2>
+      <h3>Blog</h3>
+        <ul>
+          <li><a href="./writing/fun/favoriteAlbumsOAT.html">My Favorite Albums Spreadsheet</a></li>
+          <li><a href="./writing/fun/albumsof2024.html">My 15 Favorite Albums of 2024</a></li>
+          <li><a href="./writing/fun/songsof2024.html">My 20 favorite songs of 2024</a></li>
+          <li><a href="./writing/fun/othermusicof2024.html">Other Music I listened to in 2024</a></li>
+        </ul>
+      <h3>Articles & Essays</h3>
+        <ul>
+          <li><a href="./writing/professional/timeloopsminit.html">Time Loops and Escapism in Minit</a></li>
+          <li><a href="./writing/professional/moralityin10cloverfield.html">Morality in 10 Cloverfield Lane</a></li>
+          <li><a href="./writing/professional/velvetbuzzsaw.html">Velvet Buzzsaw Review & Analysis</a></li>
+          <li><a href="./writing/professional/velvetbuzzsaw.html">Link to test of Velvet Buzzsaw Essay</a></li>
+          <li><a href="./writing/professional/comeandseereview.html">Come and See Review & Analysis</a></li>
+          <li><a href="./writing/professional/20230131.html">A BIPOC perspective of the 2022 CCRPC ECOS Report</a></li>
+          <li><a href="./writing/professional/20230228.html">A Vermonter’s Political Power</a></li>
+          <li><a href="./writing/professional/20230531.html">Contemporary BIPOC Representation in Media</a></li>
+          <li><a href="./writing/professional/20230731.html">The Job Hunter’s AI</a></li>
+          <li><a href="./writing/professional/20241031.html">The Realities of Health Inequity in Vermont</a></li>
+        </ul>
+          <h3>Canned Fish Reviews</h3>
     </section>
     <section id="three" class="hidden">
     <h2>Games</h2>                
