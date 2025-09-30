@@ -22,7 +22,7 @@ layout: default
 <br>
 <br>
 <!-- Dropdown -->
-This is my personal website. <br>It's under heavy construction and will continue to be. <br>Last updated 9/18/2025.<br>&copy; Dylan Rhymaun MMXXV
+This is my personal website. <br>It's under heavy construction and will continue to be. <br>Last updated 9/30/2025.<br>&copy; Dylan Rhymaun MMXXV
 
 {% raw %}
 <select id="menu">
