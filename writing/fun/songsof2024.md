@@ -1,11 +1,8 @@
 ---
 layout: default
 ---
-
-## My 20 Songs Albums of 2024
-
 <h1>My Favorite Songs from 2024 (kinda)</h2>
-<p>I'm not going to do a writeup for every one of these like I did for my favorite albums. Most of them cross over with the albums list anyways. I'll give them an asterisk if they're on my favorite albums list. That seems appropriate</p>
+I'm not going to do a writeup for every one of these like I did for my favorite albums. Most of them cross over with the albums list anyways. I'll give them an asterisk if they're on my favorite albums list. That seems appropriate
 
 <h2>Honorable Mention. Bubble Gum - NewJeans</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ft70sAYrFyY?si=tYCvIqzYA_dRIYyS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

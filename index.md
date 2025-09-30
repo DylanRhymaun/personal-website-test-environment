@@ -88,7 +88,7 @@ This is my personal website. <br>It's under heavy construction and will continue
       <h2>Words</h2>
       <h3>Blog</h3>
         <ul>
-          <li><a href="./writing/fun/favoriteAlbumsOAT.html">My Favorite Albums Spreadsheet</a></li>
+          <!--<li><a href="./writing/fun/favoriteAlbumsOAT.html">My Favorite Albums Spreadsheet</a></li>-->
           <li><a href="./writing/fun/albumsof2024.html">My 15 Favorite Albums of 2024</a></li>
           <li><a href="./writing/fun/songsof2024.html">My 20 favorite songs of 2024</a></li>
           <li><a href="./writing/fun/othermusicof2024.html">Other Music I listened to in 2024</a></li>
