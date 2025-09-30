@@ -106,7 +106,7 @@ This is my personal website. <br>It's under heavy construction and will continue
           <li><a href="./writing/professional/20230731.html">The Job Hunter’s AI</a></li>
           <li><a href="./writing/professional/20231031.html">The Realities of Health Inequity in Vermont</a></li>
         </ul>
-          <h3>Canned Fish Reviews</h3>
+          <!--<h3>Canned Fish Reviews</h3>-->
     </section>
     <section id="three" class="hidden">
     <h2>Games</h2>                
