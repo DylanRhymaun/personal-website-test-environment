@@ -53,29 +53,29 @@ This is my personal website. <br>It's under heavy construction and will continue
         <img alt="A gameboy" src="assets/img/16.gif">
         <img alt="An isometric view of a crashed spaceship amidst ruins in the desert" src="assets/img/17.png">
         <img alt="A first person persective of a person finding creepy obelisks in the desert" src="assets/img/18.gif">
-        <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="img/7A.jpg">
-        <img alt="Clouds" src="img/10.jpg">
-        <img alt="Skateboarder" src="img/12.JPG">
-        <img alt="Tree" src="img/26.jpg">
-        <img alt="Silhouettes of skateboard tricks overlayed on each other" src="img/19.jpg">
-        <img alt="Portraits of the members of the band Alt-J" src="img/28.png">
-        <img alt="A drawing of a man doing karate" src="img/29.png">
-        <img alt="A drawing of a quirky viking. " src="img/30.png">
-        <img alt="A drawing of the main villain from the BBC4 Show Utopia" src="img/31.png">
-        <img alt="A drawing of a pale woman with two different colored eyes" src="img/32.png">
-        <img alt="A black and white drawing of a civil war soldier" src="img/33.png">
-        <img alt="A manipulated photo of my friend siting in front of an abandoned house, though their body is pixellated" src="img/34.jpg">
-        <img alt="A high contrast photo of a condo in Toronto" src="img/36.jpg">
-        <img alt="A portrait of a model in front of UVM's taxidermy collection" src="img/37.jpg">
-        <img alt="A space-like image of some rocks over a still lake" src="img/38.JPG">
-        <img alt="A deep red sunset taken with a drone camera" src="img/39.JPG">
-        <img alt="A photo of the CN tower with a tree branch in front of it" src="img/40.JPG">
-        <img alt="A cinematic black and white landscape of a Quebec city street" src="img/41.jpg">
-        <img alt="A cinematic black and white landscape of another Quebec city street" src="img/42.jpg">
-        <img alt="A cinematic black and white landscape of the Quebec City chateau" src="img/43.jpg">
-        <img alt="A cinematic black and white landscape of A cathedral interior in Quebec city" src="img/44.jpg">
-        <img alt="A cinematic black and white landscape from inside the Quebec city chateau courtyard " src="img/45.jpg">
-        <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="img/46.jpg">
+        <img alt="A photo of waves washing ashore. Lone Rock Point, BTV" src="assets/img/7A.jpg">
+        <img alt="Clouds" src="assets/img/10.jpg">
+        <img alt="Skateboarder" src="assets/img/12.JPG">
+        <img alt="Tree" src="assets/img/26.jpg">
+        <img alt="Silhouettes of skateboard tricks overlayed on each other" src="assets/img/19.jpg">
+        <img alt="Portraits of the members of the band Alt-J" src="assets/img/28.png">
+        <img alt="A drawing of a man doing karate" src="assets/img/29.png">
+        <img alt="A drawing of a quirky viking. " src="assets/img/30.png">
+        <img alt="A drawing of the main villain from the BBC4 Show Utopia" src="assets/img/31.png">
+        <img alt="A drawing of a pale woman with two different colored eyes" src="assets/img/32.png">
+        <img alt="A black and white drawing of a civil war soldier" src="assets/img/33.png">
+        <img alt="A manipulated photo of my friend siting in front of an abandoned house, though their body is pixellated" src="assets/img/34.jpg">
+        <img alt="A high contrast photo of a condo in Toronto" src="assets/img/36.jpg">
+        <img alt="A portrait of a model in front of UVM's taxidermy collection" src="assets/img/37.jpg">
+        <img alt="A space-like image of some rocks over a still lake" src="assets/img/38.JPG">
+        <img alt="A deep red sunset taken with a drone camera" src="assets/img/39.JPG">
+        <img alt="A photo of the CN tower with a tree branch in front of it" src="assets/img/40.JPG">
+        <img alt="A cinematic black and white landscape of a Quebec city street" src="assets/img/41.jpg">
+        <img alt="A cinematic black and white landscape of another Quebec city street" src="assets/img/42.jpg">
+        <img alt="A cinematic black and white landscape of the Quebec City chateau" src="assets/img/43.jpg">
+        <img alt="A cinematic black and white landscape of A cathedral interior in Quebec city" src="assets/img/44.jpg">
+        <img alt="A cinematic black and white landscape from inside the Quebec city chateau courtyard " src="assets/img/45.jpg">
+        <img alt="A cinematic black and white landscape From the lobby of the Quebec city chateau hotel " src="assets/img/46.jpg">
         <img alt="Another BMW E30 with high contrast" src="assets/img/20.png">
         <img alt="A mock spaceship ad" src="assets/img/21.png">
         <img alt="A fancy door" src="assets/img/22.png">
