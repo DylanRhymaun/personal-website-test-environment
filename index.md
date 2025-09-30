@@ -37,7 +37,7 @@ This is my personal website. <br>It's under heavy construction and will continue
 <div id="dropdown-sections">
     <section id="one" class="hidden">
     <h2>Art</h2>
-    <img  alt="A BMW E30" src="img/1.gif">
+    <img  alt="A BMW E30" src="assets/img/1.gif">
         <img alt="A Nissan Skyline with a rocket on its roof" src="assets/img/2.gif">
         <img alt="A small spaceship" src="assets/img/3.png">
         <img alt="A view from inside a traincar at sunset" src="assets/img/4.gif">
