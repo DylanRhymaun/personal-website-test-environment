@@ -110,11 +110,11 @@ This is my personal website. <br>It's under heavy construction and will continue
     </section>
     <section id="three" class="hidden">
     <h2>Games</h2>                
-      ###Galactix
+      <h3>Galactix</h3>
       <img alt="Galactix screenshot (top down 4X tower defense)" src="assets/img/galactix.png">
       <br><a href="https://crispy-chicken.itch.io/galactix">Link to Itch.io Page</a>
       <p>I was really excited to get back into Game making for the 2024 GMTK jam, but my contributions were smaller than I hoped this year. I assembled a team of 7 this time, making it clear that I focused on 3D art, but the team took a turn and opted for a 2D game. I made the UI, title screen, player, enemy, and machine sprites, but the really impressive pixel art was done by a pixel artist I asked to join last minute. Lessons for next time I guess.</p>
-      ###Space Ops
+      <h3>Space Ops</h3>
       <img alt="Run Cycle" src="assets/img/spaceops-running.gif">
       <br><a href="https://yaboyled.itch.io/spaceops">Link to the Itch.io Page</a>
       <p>I served as the sole artist on a team of 4 people for the 2021 GMTK game jam. Space Ops was a simple wave based top down shooter. Pretty fun to work on, not the most impressive game ever made.</p>    </section>
